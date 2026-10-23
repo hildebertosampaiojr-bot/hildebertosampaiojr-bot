@@ -31,22 +31,30 @@ Busco unir organização, boas práticas de desenvolvimento e aprendizado contí
 
 ## ◇ 02 / Painel de competências técnicas
 
-<table>
-<tr><th align="left">Área</th><th align="left">Tecnologias e ferramentas utilizadas / estudadas</th><th align="left">Aplicação</th></tr>
-<tr><td>🎨 Front-end</td><td>HTML · CSS · JavaScript</td><td>Interfaces web, DOM e experiências responsivas</td></tr>
-<tr><td>⚙️ Back-end</td><td>Python · PHP</td><td>Lógica de aplicação, rotas e integração de sistemas</td></tr>
-<tr><td>🗃️ Dados</td><td>SQL · SQLite · MySQL</td><td>Modelagem, consultas e persistência de informações</td></tr>
-<tr><td>🖥️ Infraestrutura</td><td>Windows · Windows Server · PowerShell</td><td>Ambientes de desenvolvimento e administração</td></tr>
-<tr><td>🧰 Fluxo de trabalho</td><td>Git · GitHub · GitLab · VS Code · Figma</td><td>Versionamento, prototipação e organização de projetos</td></tr>
-</table>
+<div align="center">
 
-<sub>Ferramentas em diferentes estágios de aprendizado e aplicação; esta lista não representa certificações ou níveis de proficiência.</sub>
+### 🎨 Front-end
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML5, CSS3 e JavaScript" />
+
+### ⚙️ Back-end
+<img src="https://skillicons.dev/icons?i=python,php&theme=dark" alt="Python e PHP" />
+
+### 🗃️ Banco de dados
+<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" alt="MySQL e SQLite" />
+
+### 🖥️ Infraestrutura
+<img src="https://skillicons.dev/icons?i=windows,powershell&theme=dark" alt="Windows e PowerShell" />
+
+### 🛠️ Ferramentas
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma&theme=dark" alt="Git, GitHub, GitLab, VS Code e Figma" />
+
+</div>
+
+<sub>Competências e ferramentas utilizadas ou em estudo; os ícones não representam certificações ou níveis de proficiência.</sub>
 
 ---
 
 ## ◇ 03 / Projetos em destaque
-
-> **Prévias visuais reais:** os links abaixo levam aos repositórios originais. Capturas de tela não foram adicionadas porque não foi possível validar imagens reais e atuais das interfaces; nenhuma imagem ilustrativa foi apresentada como screenshot.
 
 <table>
 <tr>
