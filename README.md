@@ -34,23 +34,75 @@ Busco unir organização, boas práticas de desenvolvimento e aprendizado contí
 <div align="center">
 
 ### 🎨 Front-end
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML5, CSS3 e JavaScript" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite&amp;theme=dark" alt="HTML5, CSS3, JavaScript, TypeScript, React e Vite" title="HTML5, CSS3, JavaScript, TypeScript, React e Vite" />
 
 ### ⚙️ Back-end
-<img src="https://skillicons.dev/icons?i=python,php&theme=dark" alt="Python e PHP" />
+
+<img src="https://skillicons.dev/icons?i=python,php,laravel&amp;theme=dark" alt="Python, PHP e Laravel" title="Python, PHP e Laravel" />
+
+<img src="https://img.shields.io/badge/REST%20API-141313?style=for-the-badge" alt="REST API" title="REST API" />
+<img src="https://img.shields.io/badge/JSON-141313?style=for-the-badge&amp;logo=json&amp;logoColor=C99765" alt="JSON" title="JSON" />
 
 ### 🗃️ Banco de dados
-<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" alt="MySQL e SQLite" />
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres&amp;theme=dark" alt="MySQL, SQLite e PostgreSQL" title="MySQL, SQLite e PostgreSQL" />
+
+<img src="https://img.shields.io/badge/SQL-141313?style=for-the-badge" alt="SQL" title="SQL" />
 
 ### 🖥️ Infraestrutura
-<img src="https://skillicons.dev/icons?i=windows,powershell&theme=dark" alt="Windows e PowerShell" />
 
-### 🛠️ Ferramentas
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma&theme=dark" alt="Git, GitHub, GitLab, VS Code e Figma" />
+<img src="https://skillicons.dev/icons?i=windows,powershell,docker,kubernetes&amp;theme=dark" alt="Windows, PowerShell, Docker e Kubernetes" title="Windows, PowerShell, Docker e Kubernetes" />
+
+<img src="https://img.shields.io/badge/Harbor-141313?style=for-the-badge&amp;logo=harbor&amp;logoColor=C99765" alt="Harbor" title="Harbor" />
+
+### 🚀 DevOps e versionamento
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions&amp;theme=dark" alt="Git, GitHub, GitLab e GitHub Actions" title="Git, GitHub, GitLab e GitHub Actions" />
+
+<img src="https://img.shields.io/badge/GitLab%20CI%2FCD-141313?style=for-the-badge&amp;logo=gitlab&amp;logoColor=FC6D26" alt="GitLab CI/CD" title="GitLab CI/CD" />
+<img src="https://img.shields.io/badge/GitHub%20Pages-141313?style=for-the-badge&amp;logo=githubpages&amp;logoColor=C99765" alt="GitHub Pages" title="GitHub Pages" />
+<img src="https://img.shields.io/badge/Argo%20CD-141313?style=for-the-badge&amp;logo=argo&amp;logoColor=EF7B4D" alt="Argo CD" title="Argo CD" />
+
+### 🔐 Segurança e autenticação
+
+<img src="https://img.shields.io/badge/Keycloak-141313?style=for-the-badge&amp;logo=keycloak&amp;logoColor=C99765" alt="Keycloak" title="Keycloak" />
+<img src="https://img.shields.io/badge/SSO-141313?style=for-the-badge" alt="SSO" title="SSO" />
+<img src="https://img.shields.io/badge/RBAC-141313?style=for-the-badge" alt="RBAC" title="RBAC" />
+<img src="https://img.shields.io/badge/IAM-141313?style=for-the-badge" alt="IAM" title="IAM" />
+
+### 🎯 Design e experiência do usuário
+
+<img src="https://skillicons.dev/icons?i=figma&amp;theme=dark" alt="Figma" title="Figma" />
+
+<img src="https://img.shields.io/badge/Storybook-141313?style=for-the-badge&amp;logo=storybook&amp;logoColor=FF4785" alt="Storybook" title="Storybook" />
+<img src="https://img.shields.io/badge/Design%20System-141313?style=for-the-badge" alt="Design System" title="Design System" />
+<img src="https://img.shields.io/badge/UI%2FUX-141313?style=for-the-badge" alt="UI/UX" title="UI/UX" />
+
+### 🛠️ Ferramentas e documentação
+
+<img src="https://skillicons.dev/icons?i=vscode,nodejs,npm,md&amp;theme=dark" alt="Visual Studio Code, Node.js, npm e Markdown" title="Visual Studio Code, Node.js, npm e Markdown" />
+
+<img src="https://img.shields.io/badge/Mermaid-141313?style=for-the-badge&amp;logo=mermaid&amp;logoColor=C99765" alt="Mermaid" title="Mermaid" />
+<img src="https://img.shields.io/badge/PlantUML-141313?style=for-the-badge" alt="PlantUML" title="PlantUML" />
+<img src="https://img.shields.io/badge/Codex-141313?style=for-the-badge" alt="Codex" title="Codex" />
 
 </div>
 
-<sub>Competências e ferramentas utilizadas ou em estudo; os ícones não representam certificações ou níveis de proficiência.</sub>
+### ◇ Competências complementares
+
+| Área | Conhecimentos e práticas |
+| --- | --- |
+| 🏗️ **Engenharia de software** | Arquitetura de sistemas, Clean Code e refatoração. |
+| 🌐 **Desenvolvimento web** | Responsividade, DOM, Canvas, acessibilidade e validação de formulários. |
+| 🗃️ **Banco de dados** | Modelagem relacional, normalização e migrations. |
+| 🔗 **Integrações** | APIs REST, serviços mock e integração entre sistemas. |
+| 🔐 **Segurança** | Autenticação, autorização, perfis de acesso e fundamentos de LGPD. |
+| 🚀 **DevOps** | Pipelines, CI/CD e acompanhamento de deploy. |
+| 🤖 **Inteligência artificial** | Desenvolvimento assistido por IA, agentes e MCP. |
+| 📚 **Documentação** | Diagramas, requisitos, padrões técnicos e documentação de sistemas. |
+
+<sub>Competências, ferramentas e conhecimentos utilizados, praticados ou em estudo, em constante evolução. A presença de uma tecnologia não representa certificação ou nível de proficiência.</sub>
 
 ---
 
