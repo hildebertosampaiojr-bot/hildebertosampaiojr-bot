@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img">
+  <title>Codex</title>
+  <rect width="48" height="48" rx="10" fill="#242938"/>
+  <g transform="translate(8 8) scale(1.3333333)" fill="none" stroke="#C99765" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m6 9 3 3-3 3m6 0h4m1-6 1-2 1 2 2 1-2 1-1 2-1-2-2-1z"/></g>
+</svg>

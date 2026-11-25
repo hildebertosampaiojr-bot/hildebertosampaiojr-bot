@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img">
+  <title>Design System</title>
+  <rect width="48" height="48" rx="10" fill="#242938"/>
+  <g transform="translate(8 8) scale(1.3333333)" fill="none" stroke="#C99765" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="8" height="8" rx="1.5"/><circle cx="17" cy="7" r="4"/><path d="m7 13 5 8H2z"/><rect x="14" y="14" width="7" height="7" rx="1.5"/></g>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img">
+  <title>RBAC</title>
+  <rect width="48" height="48" rx="10" fill="#242938"/>
+  <g transform="translate(8 8) scale(1.3333333)" fill="none" stroke="#C99765" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"><path d="m12 2 9 4v6c0 5-3.8 8.2-9 10-5.2-1.8-9-5-9-10V6z"/><path d="m8 12 3 3 5-5"/></g>
+</svg>

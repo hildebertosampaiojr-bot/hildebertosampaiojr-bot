@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img">
+  <title>PlantUML</title>
+  <rect width="48" height="48" rx="10" fill="#242938"/>
+  <g transform="translate(8 8) scale(1.3333333)" fill="none" stroke="#C99765" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"><rect x="8" y="2" width="8" height="6" rx="1"/><rect x="1" y="16" width="8" height="6" rx="1"/><rect x="15" y="16" width="8" height="6" rx="1"/><path d="M12 8v4H5v4m7-4h7v4"/></g>
+</svg>

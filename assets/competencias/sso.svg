@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img">
+  <title>SSO</title>
+  <rect width="48" height="48" rx="10" fill="#242938"/>
+  <g transform="translate(8 8) scale(1.3333333)" fill="none" stroke="#C99765" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"><circle cx="7" cy="8" r="4"/><path d="m10 11 10 10m-3-3 3-3m-6 0 3-3M3 21h6"/></g>
+</svg>

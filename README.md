@@ -50,11 +50,9 @@ Busco unir organização, boas práticas de desenvolvimento e aprendizado contí
   <img src="https://skillicons.dev/icons?i=python&amp;theme=dark" width="48" alt="Python" title="Python" />
   <img src="https://skillicons.dev/icons?i=php&amp;theme=dark" width="48" alt="PHP" title="PHP" />
   <img src="https://skillicons.dev/icons?i=laravel&amp;theme=dark" width="48" alt="Laravel" title="Laravel" />
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/REST%20API-141313?style=for-the-badge" height="24" alt="REST API" title="REST API" />
-  <img src="https://img.shields.io/badge/JSON-141313?style=for-the-badge&amp;logo=json&amp;logoColor=C99765" height="24" alt="JSON" title="JSON" />
+  <img src="./assets/competencias/rest-api.svg" width="48" alt="REST API" title="REST API" />
+  <img src="./assets/competencias/json.svg" width="48" alt="JSON" title="JSON" />
 </p>
 
 ### 🗃️ Banco de dados
@@ -63,10 +61,8 @@ Busco unir organização, boas práticas de desenvolvimento e aprendizado contí
   <img src="https://skillicons.dev/icons?i=mysql&amp;theme=dark" width="48" alt="MySQL" title="MySQL" />
   <img src="https://skillicons.dev/icons?i=sqlite&amp;theme=dark" width="48" alt="SQLite" title="SQLite" />
   <img src="https://skillicons.dev/icons?i=postgres&amp;theme=dark" width="48" alt="PostgreSQL" title="PostgreSQL" />
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-141313?style=for-the-badge" height="24" alt="SQL" title="SQL" />
+  <img src="./assets/competencias/sql.svg" width="48" alt="SQL" title="SQL" />
 </p>
 
 ### 🖥️ Infraestrutura
@@ -76,10 +72,8 @@ Busco unir organização, boas práticas de desenvolvimento e aprendizado contí
   <img src="https://skillicons.dev/icons?i=powershell&amp;theme=dark" width="48" alt="PowerShell" title="PowerShell" />
   <img src="https://skillicons.dev/icons?i=docker&amp;theme=dark" width="48" alt="Docker" title="Docker" />
   <img src="https://skillicons.dev/icons?i=kubernetes&amp;theme=dark" width="48" alt="Kubernetes" title="Kubernetes" />
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Harbor-141313?style=for-the-badge&amp;logo=harbor&amp;logoColor=C99765" height="24" alt="Harbor" title="Harbor" />
+  <img src="./assets/competencias/harbor.svg" width="48" alt="Harbor" title="Harbor" />
 </p>
 
 ### 🚀 DevOps e versionamento
@@ -89,33 +83,29 @@ Busco unir organização, boas práticas de desenvolvimento e aprendizado contí
   <img src="https://skillicons.dev/icons?i=github&amp;theme=dark" width="48" alt="GitHub" title="GitHub" />
   <img src="https://skillicons.dev/icons?i=gitlab&amp;theme=dark" width="48" alt="GitLab" title="GitLab" />
   <img src="https://skillicons.dev/icons?i=githubactions&amp;theme=dark" width="48" alt="GitHub Actions" title="GitHub Actions" />
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/GitLab%20CI%2FCD-141313?style=for-the-badge&amp;logo=gitlab&amp;logoColor=FC6D26" height="24" alt="GitLab CI/CD" title="GitLab CI/CD" />
-  <img src="https://img.shields.io/badge/GitHub%20Pages-141313?style=for-the-badge&amp;logo=githubpages&amp;logoColor=C99765" height="24" alt="GitHub Pages" title="GitHub Pages" />
-  <img src="https://img.shields.io/badge/Argo%20CD-141313?style=for-the-badge&amp;logo=argo&amp;logoColor=EF7B4D" height="24" alt="Argo CD" title="Argo CD" />
+  <img src="./assets/competencias/gitlab-ci.svg" width="48" alt="GitLab CI/CD" title="GitLab CI/CD" />
+  <img src="./assets/competencias/github-pages.svg" width="48" alt="GitHub Pages" title="GitHub Pages" />
+  <img src="./assets/competencias/argo-cd.svg" width="48" alt="Argo CD" title="Argo CD" />
 </p>
 
 ### 🔐 Segurança e autenticação
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Keycloak-141313?style=for-the-badge&amp;logo=keycloak&amp;logoColor=C99765" height="24" alt="Keycloak" title="Keycloak" />
-  <img src="https://img.shields.io/badge/SSO-141313?style=for-the-badge" height="24" alt="SSO" title="SSO" />
-  <img src="https://img.shields.io/badge/RBAC-141313?style=for-the-badge" height="24" alt="RBAC" title="RBAC" />
-  <img src="https://img.shields.io/badge/IAM-141313?style=for-the-badge" height="24" alt="IAM" title="IAM" />
+  <img src="./assets/competencias/keycloak.svg" width="48" alt="Keycloak" title="Keycloak" />
+  <img src="./assets/competencias/sso.svg" width="48" alt="SSO" title="SSO" />
+  <img src="./assets/competencias/rbac.svg" width="48" alt="RBAC" title="RBAC" />
+  <img src="./assets/competencias/iam.svg" width="48" alt="IAM" title="IAM" />
 </p>
 
 ### 🎯 Design e experiência do usuário
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma&amp;theme=dark" width="48" alt="Figma" title="Figma" />
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Storybook-141313?style=for-the-badge&amp;logo=storybook&amp;logoColor=FF4785" height="24" alt="Storybook" title="Storybook" />
-  <img src="https://img.shields.io/badge/Design%20System-141313?style=for-the-badge" height="24" alt="Design System" title="Design System" />
-  <img src="https://img.shields.io/badge/UI%2FUX-141313?style=for-the-badge" height="24" alt="UI/UX" title="UI/UX" />
+  <img src="./assets/competencias/storybook.svg" width="48" alt="Storybook" title="Storybook" />
+  <img src="./assets/competencias/design-system.svg" width="48" alt="Design System" title="Design System" />
+  <img src="./assets/competencias/ui-ux.svg" width="48" alt="UI/UX" title="UI/UX" />
 </p>
 
 ### 🛠️ Ferramentas e documentação
@@ -125,12 +115,10 @@ Busco unir organização, boas práticas de desenvolvimento e aprendizado contí
   <img src="https://skillicons.dev/icons?i=nodejs&amp;theme=dark" width="48" alt="Node.js" title="Node.js" />
   <img src="https://skillicons.dev/icons?i=npm&amp;theme=dark" width="48" alt="npm" title="npm" />
   <img src="https://skillicons.dev/icons?i=md&amp;theme=dark" width="48" alt="Markdown" title="Markdown" />
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Mermaid-141313?style=for-the-badge&amp;logo=mermaid&amp;logoColor=C99765" height="24" alt="Mermaid" title="Mermaid" />
-  <img src="https://img.shields.io/badge/PlantUML-141313?style=for-the-badge" height="24" alt="PlantUML" title="PlantUML" />
-  <img src="https://img.shields.io/badge/Codex-141313?style=for-the-badge" height="24" alt="Codex" title="Codex" />
+  <img src="./assets/competencias/mermaid.svg" width="48" alt="Mermaid" title="Mermaid" />
+  <img src="./assets/competencias/plantuml.svg" width="48" alt="PlantUML" title="PlantUML" />
+  <img src="./assets/competencias/codex.svg" width="48" alt="Codex" title="Codex" />
 </p>
 
 </div>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img">
+  <title>GitLab CI/CD</title>
+  <rect width="48" height="48" rx="10" fill="#242938"/>
+  <g transform="translate(8 8) scale(1.3333333)" fill="none" stroke="#FC6D26" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="6" height="5" rx="1"/><rect x="16" y="9.5" width="6" height="5" rx="1"/><rect x="2" y="17" width="6" height="5" rx="1"/><path d="M8 4.5h4v15H8m4-7.5h4"/><path d="m17.5 12 1 1 2-2"/></g>
+</svg>
