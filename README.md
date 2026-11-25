@@ -35,57 +35,103 @@ Busco unir organização, boas práticas de desenvolvimento e aprendizado contí
 
 ### 🎨 Front-end
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite&amp;theme=dark" alt="HTML5, CSS3, JavaScript, TypeScript, React e Vite" title="HTML5, CSS3, JavaScript, TypeScript, React e Vite" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html&amp;theme=dark" width="48" alt="HTML5" title="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css&amp;theme=dark" width="48" alt="CSS3" title="CSS3" />
+  <img src="https://skillicons.dev/icons?i=js&amp;theme=dark" width="48" alt="JavaScript" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=ts&amp;theme=dark" width="48" alt="TypeScript" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=react&amp;theme=dark" width="48" alt="React" title="React" />
+  <img src="https://skillicons.dev/icons?i=vite&amp;theme=dark" width="48" alt="Vite" title="Vite" />
+</p>
 
 ### ⚙️ Back-end
 
-<img src="https://skillicons.dev/icons?i=python,php,laravel&amp;theme=dark" alt="Python, PHP e Laravel" title="Python, PHP e Laravel" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python&amp;theme=dark" width="48" alt="Python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=php&amp;theme=dark" width="48" alt="PHP" title="PHP" />
+  <img src="https://skillicons.dev/icons?i=laravel&amp;theme=dark" width="48" alt="Laravel" title="Laravel" />
+</p>
 
-<img src="https://img.shields.io/badge/REST%20API-141313?style=for-the-badge" alt="REST API" title="REST API" />
-<img src="https://img.shields.io/badge/JSON-141313?style=for-the-badge&amp;logo=json&amp;logoColor=C99765" alt="JSON" title="JSON" />
+<p align="center">
+  <img src="https://img.shields.io/badge/REST%20API-141313?style=for-the-badge" height="24" alt="REST API" title="REST API" />
+  <img src="https://img.shields.io/badge/JSON-141313?style=for-the-badge&amp;logo=json&amp;logoColor=C99765" height="24" alt="JSON" title="JSON" />
+</p>
 
 ### 🗃️ Banco de dados
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres&amp;theme=dark" alt="MySQL, SQLite e PostgreSQL" title="MySQL, SQLite e PostgreSQL" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql&amp;theme=dark" width="48" alt="MySQL" title="MySQL" />
+  <img src="https://skillicons.dev/icons?i=sqlite&amp;theme=dark" width="48" alt="SQLite" title="SQLite" />
+  <img src="https://skillicons.dev/icons?i=postgres&amp;theme=dark" width="48" alt="PostgreSQL" title="PostgreSQL" />
+</p>
 
-<img src="https://img.shields.io/badge/SQL-141313?style=for-the-badge" alt="SQL" title="SQL" />
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-141313?style=for-the-badge" height="24" alt="SQL" title="SQL" />
+</p>
 
 ### 🖥️ Infraestrutura
 
-<img src="https://skillicons.dev/icons?i=windows,powershell,docker,kubernetes&amp;theme=dark" alt="Windows, PowerShell, Docker e Kubernetes" title="Windows, PowerShell, Docker e Kubernetes" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows&amp;theme=dark" width="48" alt="Windows" title="Windows" />
+  <img src="https://skillicons.dev/icons?i=powershell&amp;theme=dark" width="48" alt="PowerShell" title="PowerShell" />
+  <img src="https://skillicons.dev/icons?i=docker&amp;theme=dark" width="48" alt="Docker" title="Docker" />
+  <img src="https://skillicons.dev/icons?i=kubernetes&amp;theme=dark" width="48" alt="Kubernetes" title="Kubernetes" />
+</p>
 
-<img src="https://img.shields.io/badge/Harbor-141313?style=for-the-badge&amp;logo=harbor&amp;logoColor=C99765" alt="Harbor" title="Harbor" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Harbor-141313?style=for-the-badge&amp;logo=harbor&amp;logoColor=C99765" height="24" alt="Harbor" title="Harbor" />
+</p>
 
 ### 🚀 DevOps e versionamento
 
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions&amp;theme=dark" alt="Git, GitHub, GitLab e GitHub Actions" title="Git, GitHub, GitLab e GitHub Actions" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git&amp;theme=dark" width="48" alt="Git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github&amp;theme=dark" width="48" alt="GitHub" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=gitlab&amp;theme=dark" width="48" alt="GitLab" title="GitLab" />
+  <img src="https://skillicons.dev/icons?i=githubactions&amp;theme=dark" width="48" alt="GitHub Actions" title="GitHub Actions" />
+</p>
 
-<img src="https://img.shields.io/badge/GitLab%20CI%2FCD-141313?style=for-the-badge&amp;logo=gitlab&amp;logoColor=FC6D26" alt="GitLab CI/CD" title="GitLab CI/CD" />
-<img src="https://img.shields.io/badge/GitHub%20Pages-141313?style=for-the-badge&amp;logo=githubpages&amp;logoColor=C99765" alt="GitHub Pages" title="GitHub Pages" />
-<img src="https://img.shields.io/badge/Argo%20CD-141313?style=for-the-badge&amp;logo=argo&amp;logoColor=EF7B4D" alt="Argo CD" title="Argo CD" />
+<p align="center">
+  <img src="https://img.shields.io/badge/GitLab%20CI%2FCD-141313?style=for-the-badge&amp;logo=gitlab&amp;logoColor=FC6D26" height="24" alt="GitLab CI/CD" title="GitLab CI/CD" />
+  <img src="https://img.shields.io/badge/GitHub%20Pages-141313?style=for-the-badge&amp;logo=githubpages&amp;logoColor=C99765" height="24" alt="GitHub Pages" title="GitHub Pages" />
+  <img src="https://img.shields.io/badge/Argo%20CD-141313?style=for-the-badge&amp;logo=argo&amp;logoColor=EF7B4D" height="24" alt="Argo CD" title="Argo CD" />
+</p>
 
 ### 🔐 Segurança e autenticação
 
-<img src="https://img.shields.io/badge/Keycloak-141313?style=for-the-badge&amp;logo=keycloak&amp;logoColor=C99765" alt="Keycloak" title="Keycloak" />
-<img src="https://img.shields.io/badge/SSO-141313?style=for-the-badge" alt="SSO" title="SSO" />
-<img src="https://img.shields.io/badge/RBAC-141313?style=for-the-badge" alt="RBAC" title="RBAC" />
-<img src="https://img.shields.io/badge/IAM-141313?style=for-the-badge" alt="IAM" title="IAM" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Keycloak-141313?style=for-the-badge&amp;logo=keycloak&amp;logoColor=C99765" height="24" alt="Keycloak" title="Keycloak" />
+  <img src="https://img.shields.io/badge/SSO-141313?style=for-the-badge" height="24" alt="SSO" title="SSO" />
+  <img src="https://img.shields.io/badge/RBAC-141313?style=for-the-badge" height="24" alt="RBAC" title="RBAC" />
+  <img src="https://img.shields.io/badge/IAM-141313?style=for-the-badge" height="24" alt="IAM" title="IAM" />
+</p>
 
 ### 🎯 Design e experiência do usuário
 
-<img src="https://skillicons.dev/icons?i=figma&amp;theme=dark" alt="Figma" title="Figma" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma&amp;theme=dark" width="48" alt="Figma" title="Figma" />
+</p>
 
-<img src="https://img.shields.io/badge/Storybook-141313?style=for-the-badge&amp;logo=storybook&amp;logoColor=FF4785" alt="Storybook" title="Storybook" />
-<img src="https://img.shields.io/badge/Design%20System-141313?style=for-the-badge" alt="Design System" title="Design System" />
-<img src="https://img.shields.io/badge/UI%2FUX-141313?style=for-the-badge" alt="UI/UX" title="UI/UX" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Storybook-141313?style=for-the-badge&amp;logo=storybook&amp;logoColor=FF4785" height="24" alt="Storybook" title="Storybook" />
+  <img src="https://img.shields.io/badge/Design%20System-141313?style=for-the-badge" height="24" alt="Design System" title="Design System" />
+  <img src="https://img.shields.io/badge/UI%2FUX-141313?style=for-the-badge" height="24" alt="UI/UX" title="UI/UX" />
+</p>
 
 ### 🛠️ Ferramentas e documentação
 
-<img src="https://skillicons.dev/icons?i=vscode,nodejs,npm,md&amp;theme=dark" alt="Visual Studio Code, Node.js, npm e Markdown" title="Visual Studio Code, Node.js, npm e Markdown" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode&amp;theme=dark" width="48" alt="Visual Studio Code" title="Visual Studio Code" />
+  <img src="https://skillicons.dev/icons?i=nodejs&amp;theme=dark" width="48" alt="Node.js" title="Node.js" />
+  <img src="https://skillicons.dev/icons?i=npm&amp;theme=dark" width="48" alt="npm" title="npm" />
+  <img src="https://skillicons.dev/icons?i=md&amp;theme=dark" width="48" alt="Markdown" title="Markdown" />
+</p>
 
-<img src="https://img.shields.io/badge/Mermaid-141313?style=for-the-badge&amp;logo=mermaid&amp;logoColor=C99765" alt="Mermaid" title="Mermaid" />
-<img src="https://img.shields.io/badge/PlantUML-141313?style=for-the-badge" alt="PlantUML" title="PlantUML" />
-<img src="https://img.shields.io/badge/Codex-141313?style=for-the-badge" alt="Codex" title="Codex" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Mermaid-141313?style=for-the-badge&amp;logo=mermaid&amp;logoColor=C99765" height="24" alt="Mermaid" title="Mermaid" />
+  <img src="https://img.shields.io/badge/PlantUML-141313?style=for-the-badge" height="24" alt="PlantUML" title="PlantUML" />
+  <img src="https://img.shields.io/badge/Codex-141313?style=for-the-badge" height="24" alt="Codex" title="Codex" />
+</p>
 
 </div>
 
