@@ -187,6 +187,28 @@ Espaço de estudos, práticas e experimentação técnica.
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### ☕ [Oro Café](https://github.com/hildebertosampaiojr-bot/Cafeteria---Trabalho-javascript)
+Cafeteria digital com cardápio interativo, sacola, acompanhamento de pedidos e jogos personalizados.
+
+**Foco:** JavaScript · manipulação do DOM · Canvas · experiência do usuário
+
+[**VER CÓDIGO ↗**](https://github.com/hildebertosampaiojr-bot/Cafeteria---Trabalho-javascript) · [**ACESSAR SITE ↗**](https://hildebertosampaiojr-bot.github.io/Cafeteria---Trabalho-javascript/)
+
+</td>
+<td width="50%" valign="top">
+
+### 💡 [Lâmpada Funcional](https://github.com/hildebertosampaiojr-bot/Lampada-Funcional)
+Simulador de interruptor que alterna a iluminação e a aparência da página em tempo real.
+
+**Foco:** JavaScript · lógica condicional · eventos · manipulação do DOM
+
+[**VER CÓDIGO ↗**](https://github.com/hildebertosampaiojr-bot/Lampada-Funcional) · [**ACESSAR SITE ↗**](https://hildebertosampaiojr-bot.github.io/Lampada-Funcional/)
+
+</td>
+</tr>
 </table>
 
 ---
